@@ -16,7 +16,7 @@ python car_game.py
 | Q   | Restart    |
 | E   | Exit       |
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.x
 - Windows OS (uses `msvcrt` for keyboard input)
@@ -40,6 +40,6 @@ python car_game.py
 - Explosion animation on collision
 - Smooth terminal rendering
 
-## 👤 Author
+## Author
 
 Made by **Lohith**
