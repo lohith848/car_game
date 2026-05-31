@@ -42,4 +42,4 @@ python car_game.py
 
 ## Author
 
-Made by **Lohith**
+Random idea by **Lohith**
